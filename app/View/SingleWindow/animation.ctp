@@ -1,0 +1,1 @@
+<script>$(function(){animation();});</script>
